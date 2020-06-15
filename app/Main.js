@@ -58,7 +58,7 @@ define([
           const survey123WebForm = new Survey123WebForm({
             container: "survey123-webform",
             clientId: "qYepeaYt7NWo4ce8",
-            portalUrl: "https://arcgis.com",
+            portalUrl: "https://www.arcgis.com",
             itemId: "f7d1b61670ec49788a8a9f246f5b2e9b",
             onFormLoaded: (data) => {
 
