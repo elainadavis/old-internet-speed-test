@@ -42,10 +42,10 @@ body {
   color:#fff;
 }
 
-.btn-teal {
+.btn-teal:hover {
   background:#1DDDD9;
   color:#fff;
-  border:1px solid #626060;
+  border-color:#626060;
 }
 
 #survey123-webform {
